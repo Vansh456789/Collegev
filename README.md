@@ -27,7 +27,7 @@ A **Flutter & Firebase-based** election management system for **IIIT Raichur**, 
 
 ## 📸 Screenshots
 
-🚀 *Coming soon...*
+![image](https://github.com/user-attachments/assets/d7db81aa-28d6-45e9-9a05-27a7e43e4e1b)
 
 ## 📌 Installation Guide
 
