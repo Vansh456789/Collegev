@@ -31,9 +31,10 @@ A **Flutter & Firebase-based** election management system for **IIIT Raichur**, 
 ![image](https://github.com/user-attachments/assets/51fd4d4c-c60a-4d81-ac43-ba55621ede1e)
 ![image](https://github.com/user-attachments/assets/fe69b843-de9f-4a4d-8a14-3fe7755649c3)
 ![image](https://github.com/user-attachments/assets/c9fe2cb7-b2a1-435a-85b3-a496c53a61e9)
-![image](https://github.com/user-attachments/assets/907a6b3b-527b-4ea5-9c64-5fa962be1933)
-![image](https://github.com/user-attachments/assets/c69dc961-b497-4517-a9d2-1c9819a2e73c)
+
 ![image](https://github.com/user-attachments/assets/415db1c8-2da3-49b0-bd16-be8221660fb0)
+![image](https://github.com/user-attachments/assets/c69dc961-b497-4517-a9d2-1c9819a2e73c)
+![image](https://github.com/user-attachments/assets/907a6b3b-527b-4ea5-9c64-5fa962be1933)
 
 
 
